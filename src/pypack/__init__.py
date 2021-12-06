@@ -1,3 +1,5 @@
+"""pypack: template python package."""
+
 # Modify the list of *-importable modules in this package with __all__
 __all__ = ["module"]
 
