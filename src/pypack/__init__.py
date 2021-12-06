@@ -4,4 +4,4 @@
 __all__ = ["module"]
 
 # Use relative import to maintain a hierarchy of type pypack.module
-from . import *
+from . import module
